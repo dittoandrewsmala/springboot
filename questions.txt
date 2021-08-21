@@ -1,0 +1,38 @@
+integrate spring and stuts
+hibenate or any ther orm
+validatpr fremwork in struts
+how nmany strust config file we hava
+
+
+diff construstion inject and setter injectiom.
+
+whcih one one is fatse jdbc or hibernate..
+hiberate caching..
+many to many realtion ship..
+cascade =all dlete orphan
+
+left join ..
+What is the difference between DELETE and TRUNCATE commands?
+
+design patters
+Singleton how it is implementd.
+What is this keyword in java?
+pass by refern and pass by value
+what is super keywork in java
+
+collecting sorintg
+oops conpts..
+oveloading /over riding
+
+mutalbel/imutable
+
+https://www.javatpoint.com/hibernate-interview-questions
+https://www.journaldev.com/3633/hibernate-interview-questions-and-answers
+https://javaconceptoftheday.com/java-interview-questions-on-method-overriding/
+
+
+
+
+
+
+
