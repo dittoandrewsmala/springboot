@@ -18,7 +18,7 @@ design patters
 Singleton how it is implementd.
 What is this keyword in java?
 pass by refern and pass by value
-what is super keywork in java
+what is super keywork in javaghgfh
 
 collecting sorintg
 oops conpts..
